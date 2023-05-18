@@ -1,2 +1,4 @@
 # Emergence-and-Nonemergence-Vehicle-Identification
-This project identifies and classifies emergence and non-emergence vehicles using convolutional neural network (CNN)
+Convolution Neural Network-
+“Emergency Vehicle Identification: Classification of Emergence and non-emergence Vehicles to Reduce any 
+Confusion in the event of an Emergency”.
